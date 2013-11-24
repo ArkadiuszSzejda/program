@@ -1,0 +1,12 @@
+D:\prog\program\program\program\bin\x86\Release\program.exe.config
+D:\prog\program\program\program\bin\x86\Release\program.exe
+D:\prog\program\program\program\obj\x86\Release\program.csprojResolveAssemblyReference.cache
+D:\prog\program\program\program\obj\x86\Release\MainWindow.baml
+D:\prog\program\program\program\obj\x86\Release\MainWindow.g.cs
+D:\prog\program\program\program\obj\x86\Release\App.g.cs
+D:\prog\program\program\program\obj\x86\Release\program_MarkupCompile.cache
+D:\prog\program\program\program\obj\x86\Release\program.g.resources
+D:\prog\program\program\program\obj\x86\Release\program.Properties.Resources.resources
+D:\prog\program\program\program\obj\x86\Release\program.csproj.GenerateResource.Cache
+D:\prog\program\program\program\obj\x86\Release\program.exe
+D:\prog\program\program\program\bin\x86\Release\mscorlib.dll

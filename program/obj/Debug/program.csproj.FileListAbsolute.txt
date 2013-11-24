@@ -1,0 +1,12 @@
+D:\prog\program\program\program\bin\Debug\program.exe.config
+D:\prog\program\program\program\bin\Debug\program.exe
+D:\prog\program\program\program\bin\Debug\program.pdb
+D:\prog\program\program\program\obj\Debug\MainWindow.baml
+D:\prog\program\program\program\obj\Debug\MainWindow.g.cs
+D:\prog\program\program\program\obj\Debug\App.g.cs
+D:\prog\program\program\program\obj\Debug\program_MarkupCompile.cache
+D:\prog\program\program\program\obj\Debug\program.g.resources
+D:\prog\program\program\program\obj\Debug\program.Properties.Resources.resources
+D:\prog\program\program\program\obj\Debug\program.csproj.GenerateResource.Cache
+D:\prog\program\program\program\obj\Debug\program.exe
+D:\prog\program\program\program\obj\Debug\program.pdb

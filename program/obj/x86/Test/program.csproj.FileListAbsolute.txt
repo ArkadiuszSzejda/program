@@ -1,0 +1,11 @@
+D:\prog\program\program\program\bin\x86\Test\program.exe.config
+D:\prog\program\program\program\bin\x86\Test\program.exe
+D:\prog\program\program\program\obj\x86\Test\program.csprojResolveAssemblyReference.cache
+D:\prog\program\program\program\obj\x86\Test\MainWindow.baml
+D:\prog\program\program\program\obj\x86\Test\MainWindow.g.cs
+D:\prog\program\program\program\obj\x86\Test\App.g.cs
+D:\prog\program\program\program\obj\x86\Test\program_MarkupCompile.cache
+D:\prog\program\program\program\obj\x86\Test\program.g.resources
+D:\prog\program\program\program\obj\x86\Test\program.Properties.Resources.resources
+D:\prog\program\program\program\obj\x86\Test\program.csproj.GenerateResource.Cache
+D:\prog\program\program\program\obj\x86\Test\program.exe
